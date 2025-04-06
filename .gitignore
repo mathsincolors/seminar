@@ -1,0 +1,12 @@
+# 忽略敏感信息文件
+github_token.txt
+
+# 其他推荐忽略项（可选）
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.idea/
+.vscode/
+node_modules/
+*.log
